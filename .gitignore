@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.RDataTmp
+gitexample.txt
+zonation 4.0.0rc1_compact
+visualization
+data_big
+R/.RData
+R/.Rhistory
+zonation_runs
